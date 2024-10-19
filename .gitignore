@@ -1,0 +1,14 @@
+.# UE Prpject Base
+.vs/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+.vsconfig
+*.sIn
+# XG PackagePackageTest/
+# Ifs
+hooks/
+lfs/
