@@ -1,4 +1,4 @@
 # uedemo
 
 
-uec++ demo
+uec++
